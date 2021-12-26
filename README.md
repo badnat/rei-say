@@ -10,3 +10,5 @@ chmod +x rei-say/rei-say
 echo "source ~/rei-say/rei-say" >> .bashrc
 source .bashrc
 ```
+
+now run rei-say in bash terminal like a boss 😎
