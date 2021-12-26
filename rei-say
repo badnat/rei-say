@@ -1,0 +1,6 @@
+#!/bin/bash
+
+function rei-say() {
+	fortune | python3 ~/rei-say/rei-say.py
+}
+
