@@ -12,4 +12,5 @@ source .bashrc
 ```
 
 now run rei-say in bash terminal like a boss 😎
+
 also you need to install fortune for this
